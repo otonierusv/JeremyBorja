@@ -1,7 +1,7 @@
 # ¡Hola a todos! 👋
 #### Soy Jeremy, un chico fan de las nuevas tecnologías que le gusta siempre aprender algo nuevo.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JeremyMatsu)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JeremyMatsu?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/JeremyMatsu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JeremyMatsu?tab=followers)
 
 - 🍔 Lenguajes de programación que uso: JavaScript.
 - 🚇 Judío-cristiano ✡✝
