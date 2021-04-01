@@ -12,6 +12,10 @@
 - 🥝 Puedo hacer cosas básicas en Photoshop e otras cosas.
 - 🥩 Osomatsu no es un Nobita, Nobita es un Osomatsu. Lee historia hijo.
 
+# Social
+![southparklat](https://badgen.net/discord/members/KBkeu3ZSYF)
+![osomatsues](https://badgen.net/discord/members/9aFGMVE8a6)
+
 # Programación
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
