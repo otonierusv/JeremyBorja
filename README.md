@@ -13,4 +13,4 @@
 - 🥩 Osomatsu no es un Nobita, Nobita es un Osomatsu. Lee historia hijo.
 
 <h1> Programación </h1>
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
