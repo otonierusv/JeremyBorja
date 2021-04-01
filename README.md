@@ -1,4 +1,4 @@
-## ¡Hola a todos!
+# ¡Hola a todos!
 #### Soy Jeremy, un chico fan de las nuevas tecnologías que le gusta siempre aprender algo nuevo.
 - 🍔 Lenguajes de programación que uso: JavaScript.
 - 🚇 Judío-cristiano ✡✝
