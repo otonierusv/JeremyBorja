@@ -19,3 +19,6 @@
 # Programación
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+# Invitación
+[![south park lat](https://jeremy2.carrd.co/assets/images/image03.png)](https://discord.gg/KBkeu3ZSYF)
