@@ -2,7 +2,6 @@
 #### Soy Jeremy, un chico fan de las nuevas tecnologías que le gusta siempre aprender algo nuevo.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JeremyMatsu)
 [![GitHub followers](https://img.shields.io/github/followers/JeremyMatsu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JeremyMatsu?tab=followers)
-![twitter](https://badgen.net/twitter/follow/jeremy__owo)
 ![youtube](https://img.shields.io/youtube/views/Tz1BUzq8HxE?style=social)
 
 # Sobre mi
