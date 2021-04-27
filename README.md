@@ -7,7 +7,7 @@
 # Sobre mi
 - 🍔 Lenguajes de programación que uso: JavaScript.
 - 🚇 Judío-cristiano ✡✝
-- 👑 Dueño e propetario de Osomatsu en Español e South Park Latinoamérica.
+- 👑 Dueño e propetario de South Park Latinoamérica.
 - 🥝 Puedo hacer cosas básicas en Photoshop e otras cosas.
 - 🥩 Osomatsu no es un Nobita, Nobita es un Osomatsu. Lee historia hijo.
 
