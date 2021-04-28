@@ -1,7 +1,7 @@
 # ¡Hola a todos! 👋
 #### Soy Jeremy, un chico fan de las nuevas tecnologías que le gusta siempre aprender algo nuevo.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JeremyBorja)
-[![GitHub followers](https://img.shields.io/github/followers/JeremyMatsu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JeremyBorja?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/JeremyBorja.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JeremyBorja?tab=followers)
 ![youtube](https://img.shields.io/youtube/views/Xm5c0_kURUY?style=social)
 
 # Sobre mi
