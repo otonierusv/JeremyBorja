@@ -5,7 +5,7 @@
 
 | Nombre | Descripción | Enlace |
 |--------|-------------|--------|
-|        |             |        |
+|![Genial-o](https://media.discordapp.net/attachments/840731031934074931/840733330486984704/awesomo.png?width=120)| Un bot de música, multipropósitos configurable | ![Haz click acá](https://genial-o.carrd.co) |
 
 # Languages
 
