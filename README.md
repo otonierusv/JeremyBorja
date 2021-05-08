@@ -5,7 +5,7 @@
 
 | Nombre | Descripción | Enlace |
 |--------|-------------|--------|
-|![](https://media.discordapp.net/attachments/840731031934074931/840733330486984704/awesomo.png?size=5)| Un bot de música, multipropósitos configurable | [Haz click acá](https://genial-o.carrd.co) |
+|![](https://media.discordapp.net/attachments/840731031934074931/840735213042925588/Sin_titulo-1.png)| Un bot de música, multipropósitos configurable | [Haz click acá](https://genial-o.carrd.co) |
 
 # Languages
 
