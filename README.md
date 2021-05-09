@@ -3,9 +3,9 @@
 
 # Projects
 
-| Nombre | Descripción | Enlace |
+| Name | Description | Link |
 |--------|-------------|--------|
-|![](https://media.discordapp.net/attachments/840731031934074931/840735213042925588/Sin_titulo-1.png)| Un bot de música, multipropósitos configurable | [Haz click acá](https://genial-o.carrd.co) |
+|![](https://media.discordapp.net/attachments/840731031934074931/840735213042925588/Sin_titulo-1.png)| A multipurpose bot, high quality music and configurable. | [Haz click acá](https://genial-o.carrd.co) |
 
 # Languages
 
