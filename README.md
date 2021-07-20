@@ -5,7 +5,7 @@
 
 | Name | Description | Link |
 |--------|-------------|--------|
-|![](https://media.discordapp.net/attachments/840731031934074931/840735213042925588/Sin_titulo-1.png)| A multipurpose spanish bot, high quality music and configurable. | [Click here.](https://genial-o.carrd.co) |
+| Nothing new | N/A | N/A |
 
 # Languages
 
