@@ -5,7 +5,7 @@
 
 | Name | Description | Link |
 |--------|-------------|--------|
-| Butters | A music bot created with distube.js.org module | private |
+| Butters | A music bot that uses slash commands created with distube.js.org module | private |
 
 # Languages
 
