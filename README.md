@@ -1,5 +1,5 @@
 # Hi, I'm Jeremy. 👋
-### and i actually redoing this readme, so wait (?
+### 16 years old boy who likes computers and things related to that.
 
 # Projects
 
