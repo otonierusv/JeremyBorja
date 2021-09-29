@@ -5,7 +5,7 @@
 
 | Name | Description | Link |
 |--------|-------------|--------|
-| Butters | Was a music bot that uses slash commands created with distube.js.org module | No longer public |
+| Butters | Was a music bot that uses slash commands created with distube.js.org module | [Webpage](https://sp.butters.ga) |
 
 # Communities
 - [South Park Galaxy - A Hispanic South Park Community](https://discord.gg/vH656bD253)
