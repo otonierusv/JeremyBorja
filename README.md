@@ -8,7 +8,7 @@
 | Butters | Was a music bot that uses slash commands created with distube.js.org module | [Webpage](https://sp.butters.ga) |
 
 # Butters
-[![Discord Bots](https://top.gg/api/widget/858815539005358090.svg)(https://top.gg/bot/858815539005358090)
+[![Discord Bots](https://top.gg/api/widget/858815539005358090.svg)](https://top.gg/bot/858815539005358090)
 
 # Communities
 - [South Park Galaxy - A Hispanic South Park Community](https://discord.gg/vH656bD253) [Lockdown]
