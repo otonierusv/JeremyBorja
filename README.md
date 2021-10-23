@@ -5,7 +5,7 @@
 
 | Name | Description | Link |
 |--------|-------------|--------|
-| Butters | Was a music bot that uses slash commands created with distube.js.org module | [Webpage](https://sp.butters.ga) |
+| Butters | It's a music bot that uses slash commands created with distube.js.org module | [Webpage](https://sp.butters.ga) |
 
 # Butters
 [![Discord Bots](https://top.gg/api/widget/858815539005358090.svg)](https://top.gg/bot/858815539005358090)
