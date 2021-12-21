@@ -1,5 +1,4 @@
 # Hi, I'm Jeremy. 👋
-### 16 years old boy who likes computers and things related to that.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A06ZT9I)
 
 # Projects
