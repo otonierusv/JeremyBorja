@@ -5,4 +5,4 @@
 
 | Name | Description | Link |
 |--------|-------------|--------|
-| Plank | Your best friend in Discord | [Not available yet](https://discord.gg/edQkAV82JJ) |
+| Edd | Something organized, not messy, messy, messy... | [Discord](https://discord.gg/dUFD3r4ebp) |
